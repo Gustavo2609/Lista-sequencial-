@@ -1,0 +1,3 @@
+I:/2º - Semestre/ESTRURA DE DADOS/lista-sequencial/cmake-build-debug/CMakeFiles/lista_sequencial.dir
+I:/2º - Semestre/ESTRURA DE DADOS/lista-sequencial/cmake-build-debug/CMakeFiles/edit_cache.dir
+I:/2º - Semestre/ESTRURA DE DADOS/lista-sequencial/cmake-build-debug/CMakeFiles/rebuild_cache.dir

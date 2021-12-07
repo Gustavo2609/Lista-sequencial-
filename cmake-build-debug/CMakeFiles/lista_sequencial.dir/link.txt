@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2021.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\lista_sequencial.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\lista_sequencial.dir/objects.a @CMakeFiles\lista_sequencial.dir\objects1.rsp
+C:\MinGW\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\lista_sequencial.dir/objects.a -Wl,--no-whole-archive -o lista_sequencial.exe -Wl,--out-implib,liblista_sequencial.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\lista_sequencial.dir\linklibs.rsp
